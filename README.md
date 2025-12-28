@@ -30,7 +30,7 @@ The analysis focuses on 11 key variables derived from a broader set of 19 parame
 * Bagging Classifier (Base and Tuned)
 
 
-4. **Evaluation:** Models were compared and ranked based on their **Test F1 Score** to ensure a balance between precision and recall.
+4. **Evaluation:** Models were compared and ranked based on their **Test F1 Score** to ensure a balance between precision and recall, note recall should be prioritized for this health use case.
 
 ## Results
 
