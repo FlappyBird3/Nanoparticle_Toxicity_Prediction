@@ -1,0 +1,8 @@
+#!/bin/sh
+
+/usr/bin/invoke_app "$@" -t jupyterguide70 \
+                         -C "start_jupyter --themes -T @tool Model Training.ipynb" \
+                         -u anaconda-7 \
+                         -w headless \
+                         -r none \
+                         -e LD_LIBRARY_PATH=@tool/lib:${LD_LIBRARY_PATH}
