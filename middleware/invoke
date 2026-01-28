@@ -5,4 +5,3 @@
                          -u anaconda-7 \
                          -w headless \
                          -r none \
-                         -e LD_LIBRARY_PATH=@tool/lib:${LD_LIBRARY_PATH}
