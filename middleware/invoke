@@ -1,6 +1,6 @@
 #!/bin/sh
 
-/usr/bin/invoke_app "$@" -t jupyterguide70 \
+/usr/bin/invoke_app "$@" -t nantoxeval \
                          -C "start_jupyter --themes -T @tool Model_Training.ipynb" \
                          -u anaconda-7 \
                          -w headless \
