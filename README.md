@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-The primary objective of this project is to develop and evaluate machine learning models capable of predicting the **toxicity outcome** (Toxic vs. nonToxic) of various nanoparticles (NPs). Using a dataset of 881 entries, the model analyzes physical and chemical parameters to identify safety risks associated with specific nanomaterials.
+The primary objective of this project is to develop and evaluate machine learning models capable of predicting the toxicity outcome of various nanoparticles (NPs). Using a dataset of 881 entries, the model analyzes physical and chemical parameters to identify safety risks associated with specific nanomaterials.
 
 ## Dataset & Variables
 
